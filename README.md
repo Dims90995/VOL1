@@ -1,9 +1,7 @@
-
-<body style="background-color:beige">
 <h1 style="color: black(0, 123, 231); font-family: system-ui;"> Dmitry shamis</h1>
-<p background="color:blue">music, hoobies and etc are :</p>
+<p>music, hoobies and etc are :</p>
 <ol>
-    <li> music just about everything , R&D mainly</li>
+    <li> music just about everything , R&D </li>
     <li>computers</li>
     <li>camera, taking photos etc</li>
 </ol>
@@ -19,5 +17,6 @@
 <!--so lines from 9 to 17 is about what i do.-->
 <p>i think its enough for this assigment :)</p>
 
+<img src="PXL_20241105_091559214.jpg" alt="portrait of myself" />
 
-</body>
+<body style="background-color:beige">
