@@ -1,5 +1,5 @@
-<h1 style="color: black(0, 123, 231); font-family: system-ui;"> Dmitry shamis</h1>
-<p>music, hoobies and etc are :</p>
+<h1 style="color:black ; font-family: system-ui;"> Dmitry shamis</h1>
+<p>  music, hoobies and etc are : </p>
 <ol>
     <li> music just about everything , R&D </li>
     <li>computers</li>
@@ -17,6 +17,8 @@
 <!--so lines from 9 to 17 is about what i do.-->
 <p>i think its enough for this assigment :)</p>
 
-<img src="PXL_20241105_091559214.jpg" alt="portrait of myself" />
+<img src="PXL_20241105_091559214.jpg" alt="portrait of myself" style="height:100px: width:100px" />
 
 <body style="background-color:beige">
+
+<a style="color:black" href="https://unsplash.com/@dimashamis">unsplash </a>
